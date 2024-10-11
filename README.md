@@ -8,7 +8,7 @@
 
 ## Online usage (recommended)
 
-Course materials for the psy111 seminar of the Neurocognitive Psychology Master's course at the University of Oldenburg. The content should primarily be accessed from the online book: [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://leonardozaggia.github.io/psy111/)
+Course materials for the psy111 seminar of the Neurocognitive Psychology Master's course at the University of Oldenburg. The content should primarily be accessed from the online book: [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://leonardozaggia.github.io/psy111/) test
 
 ## Local usage
 
