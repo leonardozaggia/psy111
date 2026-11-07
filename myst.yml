@@ -11,7 +11,7 @@ project:
   authors:
     - name: Micha Burkhardt
       affiliation: Carl von Ossietzky Universität Oldenburg
-  github: https://github.com/mibur1/psy111
+  github: https://github.com/leonardozaggia/psy111
 
   bibliography:
     - book/misc/references.bib

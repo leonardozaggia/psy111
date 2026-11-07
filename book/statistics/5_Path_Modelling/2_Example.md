@@ -36,7 +36,7 @@ import pandas as pd
 import semopy
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("https://raw.githubusercontent.com/mibur1/psy111/main/book/statistics/5_Path_Modelling/data/data.txt", sep="\t")
+df = pd.read_csv("https://raw.githubusercontent.com/leonardozaggia/psy111/main/book/statistics/5_Path_Modelling/data/data.txt", sep="\t")
 print(df.head())
 ```
 

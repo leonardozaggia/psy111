@@ -6,7 +6,9 @@
 
 ## Online usage (recommended)
 
-Course materials for the psy111 seminar of the Neurocognitive Psychology Master's course at the University of Oldenburg. The content should primarily be accessed from the online book: [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/next/docs/media/images/badge.svg)](https://michaburkhardt.de/psy111/)
+Course materials for the psy111 seminar of the Neurocognitive Psychology Master's course at the University of Oldenburg. The content should primarily be accessed from the online book: [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/next/docs/media/images/badge.svg)](https://leonardozaggia.github.io/psy111/)
+
+This repository is Leonardo Zaggia's copy of the book written by Micha Burkhardt. The original is published at [michaburkhardt.de/psy111](https://michaburkhardt.de/psy111/) from [github.com/mibur1/psy111](https://github.com/mibur1/psy111).
 
 ## Exercises 
 The *.ipynb* notebooks for the exercises can either be opened locally or through Google Colab by clicking the download button at the top.

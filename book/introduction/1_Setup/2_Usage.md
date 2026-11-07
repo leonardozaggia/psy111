@@ -123,7 +123,7 @@ Markdown is a way of writing and formatting text. In fact, all the text in this 
 
 ## The psy111 book
 
-To be able to use the book on your local computer, you first need to download its source code from [GitHub](https://github.com/mibur1/psy111) by clicking on the green button and selecting "Download ZIP" (if you are familiar with Git, you can also clone the repository for easier updating in the future). Then, navigate to your Downloads and extract the psy111 folder.
+To be able to use the book on your local computer, you first need to download its source code from [GitHub](https://github.com/leonardozaggia/psy111) by clicking on the green button and selecting "Download ZIP" (if you are familiar with Git, you can also clone the repository for easier updating in the future). Then, navigate to your Downloads and extract the psy111 folder.
 
 ```{caution} File management
 
